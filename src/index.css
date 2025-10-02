@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-feature-settings: 'tnum';
+  }
+}
+
+@layer utilities {
+  .scan-beam {
+    background: linear-gradient(90deg, transparent 0%, rgba(59, 130, 246, 0.08) 50%, transparent 100%);
+    background-size: 200% 100%;
+    animation: scan-sweep 10s ease-in-out infinite;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .scan-beam {
+      animation: none;
+      background: none;
+    }
+  }
+
+  @keyframes scan-sweep {
+    0%, 100% {
+      background-position: -100% 0;
+    }
+    50% {
+      background-position: 200% 0;
+    }
+  }
+}

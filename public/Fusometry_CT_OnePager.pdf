@@ -1,0 +1,162 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 595 842]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+4 0 obj
+<<
+/Length 3200
+>>
+stream
+BT
+/F2 18 Tf
+50 792 Td
+(Fusometry) Tj
+0 -20 Td
+/F1 11 Tf
+(Fusometry CT) Tj
+0 -50 Td
+/F2 22 Tf
+(Desktop industrial CT,) Tj
+0 -26 Td
+(engineered for production.) Tj
+0 -35 Td
+/F1 13 Tf
+(Operator-first control, local processing,) Tj
+0 -18 Td
+(and industrial safety—without the cloud or complexity.) Tj
+0 -50 Td
+/F2 15 Tf
+(Engineering Advantages) Tj
+0 -30 Td
+/F2 11 Tf
+(Operator-First Control) Tj
+0 -16 Td
+/F1 9 Tf
+(Clear interlocks, live vitals, stable long-scan workflow.) Tj
+0 -28 Td
+/F2 11 Tf
+(Local Compute) Tj
+0 -16 Td
+/F1 9 Tf
+(All processing on a single mini-PC. Predictable, offline,) Tj
+0 -12 Td
+(IT-friendly.) Tj
+0 -25 Td
+/F2 11 Tf
+(Industrial Safety) Tj
+0 -16 Td
+/F1 9 Tf
+(Door, e-stop, shielding, warm-up; emissions gated by) Tj
+0 -12 Td
+(hardware + software.) Tj
+0 -25 Td
+/F2 11 Tf
+(Modular Control Backplane) Tj
+0 -16 Td
+/F1 9 Tf
+(Architected for future instruments.) Tj
+0 -40 Td
+/F2 15 Tf
+(How It Works) Tj
+0 -28 Td
+/F2 11 Tf
+(1. Place the object) Tj
+0 -16 Td
+/F1 9 Tf
+(Position your part in the scanning chamber and close) Tj
+0 -12 Td
+(the door.) Tj
+0 -22 Td
+/F2 11 Tf
+(2. Set projections) Tj
+0 -16 Td
+/F1 9 Tf
+(Choose scan quality: 360, 720, or 1080 projections.) Tj
+0 -22 Td
+/F2 11 Tf
+(3. Scan & review) Tj
+0 -16 Td
+/F1 9 Tf
+(Start scan, monitor live progress, download volume when) Tj
+0 -12 Td
+(complete.) Tj
+0 -40 Td
+/F2 15 Tf
+(Technical Specifications) Tj
+0 -28 Td
+/F1 9 Tf
+(Detector: ~1300×1300, 16-bit) Tj
+0 -16 Td
+(Typical scan: 720 projections \(editable\)) Tj
+0 -16 Td
+(Field of view \(XY\): 250 × 250 mm) Tj
+0 -16 Td
+(Volume sizes: 256³ \(Fast\), 512³ \(Default\), 1024³ \(High-Res\)) Tj
+0 -16 Td
+(Power: single AC outlet) Tj
+0 -16 Td
+(Safety: door, e-stop, shielding, over-temp interlocks) Tj
+0 -16 Td
+(Software: local web UI \(offline capable\)) Tj
+0 -40 Td
+/F1 9 Tf
+(Built in New Jersey. Patent pending.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000015 00000 n
+0000000068 00000 n
+0000000125 00000 n
+0000000295 00000 n
+0000003547 00000 n
+0000003625 00000 n
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+3708
+%%EOF
