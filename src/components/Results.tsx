@@ -1,5 +1,9 @@
 import { useState } from 'react';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
+import usbc from "/scans/USBC.JPG";
+import earbud from '/scans/Earbud.JPG';
+import watch from '/scans/WatchPiece.JPG';
+import phoneCam from '/scans/PhoneCamModule.JPG';
 
 export function Results() {
   const [lightboxOpen, setLightboxOpen] = useState(false);
@@ -7,26 +11,26 @@ export function Results() {
 
   const results = [
     {
-      thumb: '/scans/USBC.JPG',
-      full: '/scans/USBC.JPG',
+      thumb: usbc,
+      full: usbc,
       alt: 'USB-C connectors X-ray',
       caption: 'USB-C connectors • 512³ • 720 proj',
     },
     {
-      thumb: '/scans/Earbud.JPG',
-      full: '/scans/Earbud.JPG',
+      thumb: earbud,
+      full: earbud,
       alt: 'Earbud assembly X-ray',
       caption: 'Earbud assembly • 512³ • 720 proj',
     },
     {
-      thumb: '/scans/WatchPiece.JPG',
-      full: '/scans/WatchPiece.JPG',
+      thumb: watch,
+      full: watch,
       alt: 'Watch case & spring X-ray',
       caption: 'Electric watch crown/buttons • 512³ • 720 proj',
     },
     {
-      thumb: '/scans/PhoneCamModule.JPG',
-      full: '/scans/PhoneCamModule.JPG',
+      thumb: phoneCam,
+      full: phoneCam,
       alt: 'Phone camera module X-ray',
       caption: 'Phone camera module • 512³ • 720 proj',
     },
